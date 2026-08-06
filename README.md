@@ -1,4 +1,4 @@
-### Hey, I'm Marc 👋
+### Hey, I'm KaelPulse👋
 
 Barista by day, currently teaching myself Python. Started recently and 
 decided to document the whole thing here rather than just posting 
